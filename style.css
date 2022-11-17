@@ -10,7 +10,7 @@ img{
     margin-top: 5%;
 }
 article{
-    background-image: url(/home/becode/Bureau/Profil-card/images/fond.jpeg);
+    background-image: url(/home/becode/Bureau/Profil-card/fond.jpeg);
     background-repeat: no-repeat;
     background-color: white;
     background-size: 100% 40% ;
@@ -47,27 +47,27 @@ body{
     background-color: #d0d3d4;
 }
 li:nth-child(1){
-    background-image: url(/home/becode/Bureau/Profil-card/images/mail.png);
+    background-image: url(/home/becode/Bureau/Profil-card/mail.png);
     background-position: left;
     background-size: 20px 20px;
     background-repeat: no-repeat;
     padding-left: 25px;
 }
 li:nth-child(2){
-    background-image: url(/home/becode/Bureau/Profil-card/images/tel.png);
+    background-image: url(/home/becode/Bureau/Profil-card/tel.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 20px 20px;
     padding-left: 25px;
 }
 li:nth-child(3){
-    background-image: url(/home/becode/Bureau/Profil-card/images/github.png);background-position: left;
+    background-image: url(/home/becode/Bureau/Profil-card/github.png);background-position: left;
     background-repeat: no-repeat;
     background-size: 20px 20px;
     padding-left: 25px;
 }
 li:nth-child(4){
-    background-image: url(/home/becode/Bureau/Profil-card/images/map.png);
+    background-image: url(/home/becode/Bureau/Profil-card/map.png);
     background-repeat: no-repeat;
     background-size: 20px 20px;
     padding-left: 25px;
